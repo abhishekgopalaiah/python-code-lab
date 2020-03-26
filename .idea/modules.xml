@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../practise-problems/.idea/practise-problems.iml" filepath="$PROJECT_DIR$/../practise-problems/.idea/practise-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_repo.iml" filepath="$PROJECT_DIR$/.idea/python_repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlalchemy-practise/.idea/sqlalchemy-practise.iml" filepath="$PROJECT_DIR$/../sqlalchemy-practise/.idea/sqlalchemy-practise.iml" />
+    </modules>
+  </component>
+</project>
