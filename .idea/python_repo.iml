@@ -6,5 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="practise-problems" />
     <orderEntry type="module" module-name="sqlalchemy-practise" />
+    <orderEntry type="module" module-name="learn_django" />
+    <orderEntry type="module" module-name="learn_django" />
+    <orderEntry type="module" module-name="learn_django" />
+    <orderEntry type="module" module-name="user_activity" />
   </component>
 </module>

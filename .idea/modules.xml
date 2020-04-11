@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../learn_django/.idea/learn_django.iml" filepath="$PROJECT_DIR$/../learn_django/.idea/learn_django.iml" />
       <module fileurl="file://$PROJECT_DIR$/../practise-problems/.idea/practise-problems.iml" filepath="$PROJECT_DIR$/../practise-problems/.idea/practise-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_repo.iml" filepath="$PROJECT_DIR$/.idea/python_repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../sqlalchemy-practise/.idea/sqlalchemy-practise.iml" filepath="$PROJECT_DIR$/../sqlalchemy-practise/.idea/sqlalchemy-practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../user_activity/.idea/user_activity.iml" filepath="$PROJECT_DIR$/../user_activity/.idea/user_activity.iml" />
     </modules>
   </component>
 </project>
