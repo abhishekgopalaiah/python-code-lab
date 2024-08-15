@@ -1,3 +1,1 @@
-
-
-![BigOLinkedList.png](images/BigOLinkedList.png)
+![Big O Linked List](../../../images/BigOLinkedList.png)
